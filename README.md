@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @orguitar1
-- 👀 I’m interested in coding coding coding
+- 👀 I’m interested in web design, tailwindcss, bootstrap, php
 - 🌱 I’m currently learning tailwindcss
 - 💞️ I’m looking to collaborate on whatever looks interesting
 - 📫 How to reach me: orlando512@hotmail.com
